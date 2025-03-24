@@ -43,6 +43,13 @@ function App() {
               type="file"
               placeholder="Upload your CV here"
             />
+              <InputField
+              label="CV"
+              name="cv"
+              type="file"
+              placeholder="Upload your CV here"
+            />
+            
             <PrimaryButton label="Submit" type="submit" />
           </Form>
         )}
